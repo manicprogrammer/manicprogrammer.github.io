@@ -24,8 +24,7 @@
         {
             "id": "did:web:manicprogrammer.github.io#messagingv2",
             "type": "DIDCommMessaging",
-            "serviceEndpoint": "https://mediator.blocktrust.dev/qr?_oobid=5dd335f4-865e-4651-9de4-0ac098528887",
-            "description": "blocktrust didcomm 2 mediator"
+            "serviceEndpoint": "https://mediator.blocktrust.dev/qr?_oobid=5dd335f4-865e-4651-9de4-0ac098528887"
         }
     ]
 }
