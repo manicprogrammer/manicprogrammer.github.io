@@ -1,22 +1,3 @@
 {
-    "@context": [
-        "https://www.w3.org/ns/did/v1",
-        "https://w3id.org/security/v2",
-        "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
-    ],
     "id": "did:web:manicprogrammer.github.io",
-    "verificationMethod": [
-        {
-            "id": "did:web:manicprogrammer.github.io#04b5c2f69f38895d1db32f397acf5be3739e4956531ba59cde5396ec4564884b08d75ae8c214d73ee3ac7cfa36491feb396d73bf69a5bd219aa774f42a8d333900",
-            "type": "EcdsaSecp256k1VerificationKey2019",
-            "controller": "did:web:manicprogrammer.github.io",
-            "publicKeyHex": "04b5c2f69f38895d1db32f397acf5be3739e4956531ba59cde5396ec4564884b08d75ae8c214d73ee3ac7cfa36491feb396d73bf69a5bd219aa774f42a8d333900"
-        }
-    ],
-    "authentication": [
-        "did:web:manicprogrammer.github.io#04b5c2f69f38895d1db32f397acf5be3739e4956531ba59cde5396ec4564884b08d75ae8c214d73ee3ac7cfa36491feb396d73bf69a5bd219aa774f42a8d333900"
-    ],
-    "assertionMethod": [
-        "did:web:manicprogrammer.github.io#04b5c2f69f38895d1db32f397acf5be3739e4956531ba59cde5396ec4564884b08d75ae8c214d73ee3ac7cfa36491feb396d73bf69a5bd219aa774f42a8d333900"
-    ]
 }
