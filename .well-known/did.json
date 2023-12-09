@@ -22,9 +22,10 @@
     "keyAgreement": [],
     "service": [
         {
-            "id": "did:web:manicprogrammer.github.io#messagingv2",
+            "id": "did:web:manicprogrammer.github.io#messaging-local",
             "type": "DIDCommMessaging",
-            "serviceEndpoint": "https://mediator.blocktrust.dev/qr?_oobid=5dd335f4-865e-4651-9de4-0ac098528887"
+            "serviceEndpoint": "http://localhost:3332/messaging",
+            "description": null
         }
     ]
 }
